@@ -1,5 +1,4 @@
-@use "sass:color";
-@use "sass:color";
+
 @-webkit-keyframes loading {
   100% {
     z-index: -100;
@@ -433,7 +432,6 @@ h2 {
   }
 }
 
-@use "sass:color";
 @keyframes loading {
   100% {
     z-index: -100;
@@ -481,7 +479,6 @@ h2 {
   }
 }
 
-@use "sass:color";
 .loading {
   position: fixed;
   height: 100%;
@@ -917,5 +914,4 @@ h2 {
           animation-delay: 1.8s;
 }
 
-@use "sass:color";
 /*# sourceMappingURL=main.css.map */
